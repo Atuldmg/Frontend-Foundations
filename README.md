@@ -9,12 +9,19 @@
   </a>
   <img src="https://img.shields.io/badge/Course-CSIT248%20Advanced%20Web%20Tech-6366f1?style=for-the-badge" alt="Course CSIT248" />
   <img src="https://img.shields.io/badge/Institution-Amity%20University%20Noida-f59e0b?style=for-the-badge" alt="Amity University Noida" />
-  <img src="https://img.shields.io/badge/Completed-21%20Experiments%20(100%25)-10b981?style=for-the-badge" alt="All Experiments Complete" />
+  <a href="./CSIT248_Lab_Record.pdf">
+    <img src="https://img.shields.io/badge/Download%20Lab%20Record-PDF-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" />
+  </a>
+  <a href="./CSIT248_Lab_Record.docx">
+    <img src="https://img.shields.io/badge/Download%20Lab%20Record-Word%20(DOCX)-2563eb?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download DOCX" />
+  </a>
 </p>
 
 ---
 
 > 🚀 **Live Production Deployment:** **[https://atulanand-web-tech-labwork.netlify.app/](https://atulanand-web-tech-labwork.netlify.app/)**  
+> 📕 **Official Lab Record (PDF):** **[CSIT248_Lab_Record.pdf](./CSIT248_Lab_Record.pdf)**  
+> 📘 **Official Lab Record (Word):** **[CSIT248_Lab_Record.docx](./CSIT248_Lab_Record.docx)**  
 > 💻 **GitHub Repository:** **[https://github.com/Atulframez/Frontend-Foundations](https://github.com/Atulframez/Frontend-Foundations)**  
 > 👨‍🎓 **Author / Student:** **Atul Anand** &bull; BCA (Hons.) with Research &bull; Semester III &bull; Amity University Noida  
 
@@ -24,7 +31,10 @@
 
 | Directory / Component | Description |
 | :--- | :--- |
-| **[`HTML-LAB-WORK/`](./HTML-LAB-WORK/)** | **Advanced Web Technology (CSIT248) Lab Portfolio** — Complete suite of 21 practical experiments (Exp 01 to 22) with interactive launchers, XML data processing, and PHP/MySQL backends. |
+| **[`CSIT248_Lab_Record.pdf`](./CSIT248_Lab_Record.pdf)** | **Official University Practical Lab Record (PDF)** — Complete formatted document covering all 25 experiments with cover page, index, code, and screenshots. |
+| **[`CSIT248_Lab_Record.docx`](./CSIT248_Lab_Record.docx)** | **Editable Word Document (DOCX)** — Full editable lab file with styled tables, code blocks, and embedded figures. |
+| **[`CSIT248_Lab_Record.html`](./CSIT248_Lab_Record.html)** | **Interactive Print-Ready Web Document** — Standalone HTML portfolio with embedded assets and 1-click PDF print button. |
+| **[`HTML-LAB-WORK/`](./HTML-LAB-WORK/)** | **Advanced Web Technology (CSIT248) Lab Portfolio** — Complete suite of practical experiments with interactive launchers, XML data processing, and PHP/MySQL backends. |
 | **[`index.html`](./index.html)** | **Root Entry &amp; Redirect Gateway** — Automatically routes visitors and Netlify deployments directly into `HTML-LAB-WORK/index.html`. |
 | **[`Chapter-00/`](./Chapter-00/)** | Foundational HTML exercises, document anatomy, tags, and client-side image mapping. |
 | **[`Chapter-01/`](./Chapter-01/)** | Intermediate HTML layouts, multimedia audio/video integration, and styling fundamentals. |
