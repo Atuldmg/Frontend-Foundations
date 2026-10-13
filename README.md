@@ -1,4 +1,4 @@
-# 🌐 Frontend Foundations &amp; Advanced Web Technology (CSIT248) Portfolio
+#  Frontend Foundations &amp; Advanced Web Technology (CSIT248) Portfolio
 
 <p align="center">
   <a href="https://atulanand-web-tech-labwork.netlify.app/">
@@ -19,15 +19,15 @@
 
 ---
 
-> 🚀 **Live Production Deployment:** **[https://atulanand-web-tech-labwork.netlify.app/](https://atulanand-web-tech-labwork.netlify.app/)**  
-> 📕 **Official Lab Record (PDF):** **[CSIT248_Lab_Record.pdf](./CSIT248_Lab_Record.pdf)**  
-> 📘 **Official Lab Record (Word):** **[CSIT248_Lab_Record.docx](./CSIT248_Lab_Record.docx)**  
-> 💻 **GitHub Repository:** **[https://github.com/Atulframez/Frontend-Foundations](https://github.com/Atulframez/Frontend-Foundations)**  
-> 👨‍🎓 **Author / Student:** **Atul Anand** &bull; BCA (Hons.) with Research &bull; Semester III &bull; Amity University Noida  
+>  **Live Production Deployment:** **[https://atulanand-web-tech-labwork.netlify.app/](https://atulanand-web-tech-labwork.netlify.app/)**  
+>  **Official Lab Record (PDF):** **[CSIT248_Lab_Record.pdf](./CSIT248_Lab_Record.pdf)**  
+>  **Official Lab Record (Word):** **[CSIT248_Lab_Record.docx](./CSIT248_Lab_Record.docx)**  
+>  **GitHub Repository:** **[https://github.com/Atulframez/Frontend-Foundations](https://github.com/Atulframez/Frontend-Foundations)**  
+>  **Author / Student:** **Atul Anand** &bull; BCA (Hons.) with Research &bull; Semester III &bull; Amity University Noida  
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Directory / Component | Description |
 | :--- | :--- |
@@ -42,15 +42,15 @@
 
 ---
 
-## 🚀 Live Demo & Deployment
+##  Live Demo & Deployment
 
 The entire laboratory portfolio is deployed live on Netlify:
 
-👉 **[Launch Live Web Application (atulanand-web-tech-labwork.netlify.app)](https://atulanand-web-tech-labwork.netlify.app/)**
+ **[Launch Live Web Application (atulanand-web-tech-labwork.netlify.app)](https://atulanand-web-tech-labwork.netlify.app/)**
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The Frontend Foundations & CSIT248 portfolio architecture is engineered for dual-mode execution: instantaneous sub-50ms static delivery via Netlify Edge CDN, and modular server-side processing powered by PHP 8.x, XML DOM parsing, and MySQL relational backends.
 
@@ -107,7 +107,7 @@ sequenceDiagram
 
 ---
 
-## ⚡ Highlighted PHP, XML & MySQL Experiments (Inside `HTML-LAB-WORK/`)
+##  Highlighted PHP, XML & MySQL Experiments (Inside `HTML-LAB-WORK/`)
 
 ### [Experiment 13: Student XML Database & Server-Side Lookup](https://atulanand-web-tech-labwork.netlify.app/experiment-13/)
 - **Problem Statement:** Create an XML document of 10 students of SEM VI IT. Add their Enrollment No., marks obtained in 5 subjects, total marks, and percentage saved at the server. Write a program that accepts a student's Enrollment No. as input and returns their marks, total, and percentage by querying the server XML document.
@@ -136,7 +136,7 @@ sequenceDiagram
 
 ---
 
-## 📑 Complete Laboratory Index (01 to 22)
+##  Complete Laboratory Index (01 to 22)
 
 | Exp No. | Experiment Title & Objective | Tech Stack | Local Path | Netlify Live Link |
 | :---: | :--- | :--- | :--- | :--- |
@@ -165,7 +165,7 @@ sequenceDiagram
 
 ---
 
-## 💻 Local Setup & Execution
+##  Local Setup & Execution
 
 ### 1. View Static & Client-Side Interactive Pages
 Clone the repository and open `index.html` directly in any modern browser:
@@ -193,10 +193,10 @@ open index.html
 
 ---
 
-## 👨‍💻 Author & Connect
+##  Author & Connect
 
 - **Atul Anand**
 - BCA (Hons.) with Research 
-- 🌐 **Live Portfolio:** [https://atulanand-web-tech-labwork.netlify.app/](https://atulanand-web-tech-labwork.netlify.app/)
-- 💻 **GitHub:** [https://github.com/Atulframez](https://github.com/Atulframez)
-- ✉️ **Email:** [atulll0923@gmail.com](mailto:atulll0923@gmail.com)
+-  **Live Portfolio:** [https://atulanand-web-tech-labwork.netlify.app/](https://atulanand-web-tech-labwork.netlify.app/)
+-  **GitHub:** [https://github.com/Atulframez](https://github.com/Atulframez)
+-  **Email:** [atulll0923@gmail.com](mailto:atulll0923@gmail.com)
